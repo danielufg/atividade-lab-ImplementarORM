@@ -2,7 +2,7 @@
 
 ## Com base na classe Usuario, implementei o ORM relativo às subclasses Administrador e Cliente que modelam o cadastro de dois usuários distintos que utilizariam nosso projeto.
 
-Inicialmente, instanciei três usuários distintos, um Administrador e dois Cliente fictícios. 
+### Inicialmente, instanciei três usuários distintos, um Administrador e dois Cliente fictícios. 
 
 ![Instanciando administ1](atividadeCRUD/Imagens/instAdmin.png)
 
@@ -10,7 +10,7 @@ Inicialmente, instanciei três usuários distintos, um Administrador e dois Clie
 
 ![Instanciando cliente2](atividadeCRUD/Imagens/instCliente2.png)
 
-Em seguida, usando o método 'create()' adicionei os três usuários ao banco de dados criado para a atividade.
+### Em seguida, usando o método 'create()' adicionei os três usuários ao banco de dados criado para a atividade.
 
 ![Create administ1](atividadeCRUD/Imagens/createAdmin.png)
 
@@ -18,7 +18,7 @@ Em seguida, usando o método 'create()' adicionei os três usuários ao banco de
 
 ![Create cliente2](atividadeCRUD/Imagens/createCliente2.png)
 
-Por fim, usando o DB Browser, abri o arquivo databaseTeste para verificar se a tabela de dados e os usuários haviam realmente sido adicionados.
+### Por fim, usando o DB Browser, abri o arquivo databaseTeste para verificar se a tabela de dados e os usuários haviam realmente sido adicionados.
 
 ![Tabela Database](atividadeCRUD/Imagens/tabelaDatabase.png)
 
